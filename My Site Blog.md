@@ -16,3 +16,6 @@ It's been over a year since I even touched the repository. I thought I had forgo
 
 May 31 2022 <br>
 Today, I FINALLY took out the notice for "Hey! We accept Bitcoin now!" thing. I also fixed an issue that didn't really do anything, but it would annoy other programmers/coders looking at the source code of the site. I added a DOCTYPE that says "<!DOCTYPE html>" at the top of the page. Anyway, see you whenever I have something to add!
+
+April 1 2022-March 3 2023 <br>
+I learned a little more code! Not much though, but atleast HOPEFULLY now the site can be HTTPS instead of HTTP. Haven't done much since I've been focusing on school and Donkey World (I reccomend not questioning the second one, but if you really want to know, <a href="http://www.mvmc.xyz">that's fine I guess.</a> but I came back for a day and did the equivalent of walking into an attic for the first time in 30 years and dusting/getting rid of cobwebs. See you when there's something new (if there ever is... DUN DUN DUNNNN)
